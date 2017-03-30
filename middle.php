@@ -1,7 +1,7 @@
 <?php
 require("curlRequest.php");
 $webpage = 'http://web.njit.edu/';
-$suffix = '~ss2563/';
+$suffix = '~[ax]XXXX/';
 $address = 'back.php';
 
 if( isset ($_POST[0]) && isset ($_POST[1]) )
