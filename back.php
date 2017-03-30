@@ -4,7 +4,7 @@ if( isset ($_POST[0]) && isset ($_POST[1]) )
 {
 	//DB connection
 	$server="sql.njit.edu";
-	$user = "ss2563";
+	$user = "[az]XXXX";
 	$pass = "3XLprl2A2";
 	$conn = mysql_connect($server,$user,$pass);
 	echo "tryingtoconnect";
